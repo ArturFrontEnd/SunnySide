@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    font-size: 100%;
 }
 
 a {
@@ -11,4 +12,8 @@ a {
 
 li {
     list-style: none;
+}
+
+body {
+    font-size: 18px;
 }

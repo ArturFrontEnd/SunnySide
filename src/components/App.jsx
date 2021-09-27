@@ -1,9 +1,13 @@
 import React from "react";
+import Header from "./Header/Header";
+
+//wrapper class
+import "./wrapper.css";
 
 const App = (props) => {
   return (
-    <div>
-      <h1>Hello World!</h1>
+    <div className="wrapper">
+      <Header />
     </div>
   );
 };
