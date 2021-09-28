@@ -89,6 +89,7 @@ export const HeaderComponent = styled.header`
     background-size: cover;
     background-position: center center;
     padding-bottom: 200px;
+    margin-top: -20px;
 
     //control menu
     .header__btn {
