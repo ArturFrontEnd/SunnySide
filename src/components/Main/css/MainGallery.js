@@ -4,7 +4,7 @@ export const ComponentGalley = styled.figure`
   display: flex;
 
   img {
-    width: 25%;
+    min-width: 25%;
   }
 
   @media screen and (max-width: 767px) {
