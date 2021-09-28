@@ -1,13 +1,12 @@
 import React from "react";
 import Header from "./Header/Header";
-
-//wrapper class
-import "./wrapper.css";
+import Main from "./Main/Main";
 
 const App = (props) => {
   return (
-    <div className="wrapper">
+    <div>
       <Header />
+      <Main />
     </div>
   );
 };
