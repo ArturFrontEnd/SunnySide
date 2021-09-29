@@ -1,5 +1,5 @@
 import React from "react";
-import { ComponentFooter } from "./Footer";
+import { ComponentFooter } from "./Footer.js";
 
 import Logo from "./img/logo.svg";
 import Facebook from "./img/icon-facebook.svg";
